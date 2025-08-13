@@ -1,4 +1,4 @@
-# Credit Risk Modeling for Lauki Finance
+# Credit Risk Machine Learning Model Project for Lauki Finance
 
 ## Description
 This project develops a credit risk model for Lauki Finance, an India-based NBFC, to predict loan default probabilities and assign credit scores (Poor, Average, Good, Excellent) inspired by the CIBIL scoring system. Built using Python, it features a Logistic Regression model trained on historical loan, customer, and credit bureau data, achieving 97.5% AUC, 85.9% KS statistic, and 0.96 Gini coefficient. A Streamlit-based UI enables real-time loan application assessment for loan officers.
@@ -10,7 +10,6 @@ This project develops a credit risk model for Lauki Finance, an India-based NBFC
 - [Features](#features)
 - [Model Details](#model-details)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -131,13 +130,6 @@ Contributions are welcome! To contribute:
 
 Please follow PEP 8 standards and include tests for new features.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or feedback, reach out to:
-- Your Name: your.email@example.com
-- GitHub: [your-username](https://github.com/your-username)
-- Project Link: [https://github.com/your-username/credit-risk-model](https://github.com/your-username/credit-risk-model)
-
-*Project from Codebasics ML Course. All rights reserved: Codebasics.io*
+- Your Name: kavineshdhanush@gmail.com
