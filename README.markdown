@@ -1,7 +1,7 @@
-# Credit Risk Machine Learning Model Project for Lauki Finance
+# Credit Risk Machine Learning Model Project for Loki Finance
 
 ## Description
-This project develops a credit risk model for Lauki Finance, an India-based NBFC, to predict loan default probabilities and assign credit scores (Poor, Average, Good, Excellent) inspired by the CIBIL scoring system. Built using Python, it features a Logistic Regression model trained on historical loan, customer, and credit bureau data, achieving 97.5% AUC, 85.9% KS statistic, and 0.96 Gini coefficient. A Streamlit-based UI enables real-time loan application assessment for loan officers.
+This project develops a credit risk model for Loki Finance, an India-based NBFC, to predict loan default probabilities and assign credit scores (Poor, Average, Good, Excellent) inspired by the CIBIL scoring system. Built using Python, it features a Logistic Regression model trained on historical loan, customer, and credit bureau data, achieving 97.5% AUC, 85.9% KS statistic, and 0.96 Gini coefficient. A Streamlit-based UI enables real-time loan application assessment for loan officers.
 
 ## Table of Contents
 - [Installation](#installation)
